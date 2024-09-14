@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(174, 176, 179);
+
+}
+section{
+height: 500px;
+width: 100%;
+background-color: aqua;
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+
+}
+div{
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+    padding: 16px;
+    border: 2px solid red;
+}
